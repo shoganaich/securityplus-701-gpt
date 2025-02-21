@@ -52,7 +52,7 @@ Through this project, I gained experience in:
 ---
 
 ## ⚠️ Disclaimer  
-This repository provides access to a custom GPT designed for the CompTIA Security+ SY0-701 exam. While the GPT is free to use, **the underlying prompt engineering and curated knowledge base are proprietary and not shared** as part of this repository. They may not be copied, reused, or distributed in any form.  
+This repository provides access to a custom GPT designed for the CompTIA Security+ SY0-701 exam, which I have made free to use. However, the custom instruction prompts that guide the GPT are private and not included in this repository. Additionally, the source materials used to build its knowledge base, including books, course materials, and other paid resources, are proprietary and cannot be shared, copied, or redistributed in any form.
 
 ---
 
