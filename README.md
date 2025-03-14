@@ -45,9 +45,10 @@ Through this project, I gained experience in:
 
 ---
 
-## 📈 Future Improvements  
-- Add more **scenario-based practice questions**.  
-- Integrate **visual aids** like diagrams to illustrate complex topics. 
+## 📈 Improvements Checklist
+- [X] Fixed an issue where the assistant exposed knowledge base and and prompt details.
+- [ ] Add more **scenario-based practice questions**.  
+- [ ] Integrate **visual aids** like diagrams to illustrate complex topics. 
 
 ---
 
